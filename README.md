@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Mfoniso
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketsindhu&label=Views&color=red" alt="aniketsindhu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=airzed&label=Views&color=red" alt="airzed" /> </p>
 
 <a href="mailto: ukpabiomfoniso@gmail.com"><img src="https://img.shields.io/badge/-ukpabiomfoniso%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a href="https://github.com/AirZED"><img src="https://img.shields.io/badge/airzed-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://x.com/Mfonisoh1"><img src="https://img.shields.io/badge/Mfonisoh1-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
 
@@ -28,5 +28,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
+
 ## 🌼 GitHub Highlights:
 <a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=airzed&theme=gruvbox_duo"/>
+</a>
