@@ -28,5 +28,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
+
 ## 🌼 GitHub Highlights:
 <a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=airzed&theme=gruvbox_duo"/>
+</a>
