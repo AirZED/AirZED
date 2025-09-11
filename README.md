@@ -5,8 +5,6 @@
 <a href="mailto: ukpabiomfoniso@gmail.com"><img src="https://img.shields.io/badge/-ukpabiomfoniso%40gmail.com-C5221E?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a href="https://github.com/AirZED"><img src="https://img.shields.io/badge/airzed-white.svg?&style=for-the-badge&logo=github&logoColor=black" ></a> <a href="https://x.com/Mfonisoh1"><img src="https://img.shields.io/badge/Mfonisoh1-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" ></a> 
 
 - 📫 How to reach me: [Twitter - @Mfonisoh1](https://x.com/Mfonisoh1)
-- 👋  Fun fact: I am a talkative
-
 
 ## ⚡ Technologies
 
